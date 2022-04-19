@@ -3,7 +3,7 @@
 Welcome!
 You can check my program projects I have done for the stanCode Sc101 course. 
 
-### projects
+## Project Source Codes:
 - [Boggle Game Solver](https://github.com/zephyr-hhchung/MyStanCodeProject-SC101/tree/main/StanCodeProject/boggle_game_solver)
   - recursive functions
 - [Breakout Game](https://github.com/zephyr-hhchung/MyStanCodeProject-SC101/tree/main/StanCodeProject/breakout_game)
