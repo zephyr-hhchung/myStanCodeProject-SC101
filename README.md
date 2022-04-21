@@ -5,7 +5,7 @@ You can check my program projects I have done for the stanCode SC101 course.
 
 Also, check my [DEMO VIDEOS!](https://drive.google.com/drive/folders/1mmv2cp_O6Fej656MlPCyy_KMq-pSt5gE?usp=sharing)
 
-## Project Source Codes:
+# Project Source Codes:
 - [Boggle Game Solver](https://github.com/zephyr-hhchung/MyStanCodeProject-SC101/tree/main/StanCodeProject/boggle_game_solver)
   - recursive functions
 - [Breakout Game](https://github.com/zephyr-hhchung/MyStanCodeProject-SC101/tree/main/StanCodeProject/breakout_game)
