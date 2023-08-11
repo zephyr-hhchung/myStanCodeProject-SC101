@@ -1,4 +1,4 @@
-# My *StanCode* Project - SC101
+# My *stanCode* Project - SC101
 
 Welcome!
 You can check my program projects I have done for the stanCode SC101 course. 
